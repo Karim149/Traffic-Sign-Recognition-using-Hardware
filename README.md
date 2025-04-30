@@ -1,4 +1,4 @@
-# Traffic-Sign-Recognition-with-Hardware
+# Traffic-Sign-Recognition-using-Hardware
 
 This project implements a real-time traffic sign detection system using Convolutional Neural Networks (CNNs). The system classifies traffic signs and announces the results via a speaker. It was tested in a realistic, road-like simulated environment using embedded hardware.
 
