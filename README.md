@@ -22,9 +22,6 @@ GTSRB (German Traffic Sign Recognition Benchmark)
 ##  Demo
 Video demonstration of the project is available in this repository.
 
-##  Project Structure
-- `Neural_Model_Project_final.ipynb` – Model training and testing
-- `Hardware_Integration.pdf` – Hardware integration design
-- `Result_Sample.png` – Sample output
+
 
 
